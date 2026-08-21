@@ -14,22 +14,22 @@ no account, and no analytics or tracking of any kind in the app.
 
 ## What stays on your device
 
-Everything you put into Nook — your focus session history, the task labels you
-type, your timer durations, and your alarm sound choice — is stored on your
+Everything you put into Nook, your focus session history, the task labels you
+type, your timer durations, and your alarm sound choice, is stored on your
 iPhone using Apple's SwiftData framework. It is never uploaded anywhere.
 Deleting the app removes it.
 
 ## Notifications
 
-If you allow notifications, Nook schedules them locally on your device —
-through iOS itself — to tell you when a focus session or break ends. These
+If you allow notifications, Nook schedules them locally on your device,
+through iOS itself, to tell you when a focus session or break ends. These
 never pass through a server we control, because none exists.
 
 ## If sync ever arrives
 
 A future version of Nook may offer optional cross-device sync. If it does, it
-will use Apple's CloudKit under your own iCloud account — the same private
-system Apple uses for iCloud backups — and it will be opt-in. This policy will
+will use Apple's CloudKit under your own iCloud account: the same private
+system Apple uses for iCloud backups, and it will be opt-in. This policy will
 be updated first, and nothing will change for you unless you turn it on.
 
 ## Children
